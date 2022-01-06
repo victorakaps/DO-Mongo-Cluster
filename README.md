@@ -25,6 +25,8 @@ with that done, lets start our kubernetes cluster creation and deployment
     side note: you can leave the fields as they are.
 - Click on **Create** button.
 - Wait until the cluster is created.
+your should find the k8 cluster you just created under clusters on your DO Dashboard. like the picture below:
+![DO Dashboard](https://imgur.com/Q5Rp1bI.png)
 
 ### Step 2: Connect to the cluster
 - In the **Overview** tab, **Getting Started** section will have the required information.
